@@ -40,7 +40,6 @@ WPF application (.NET 8, C#) that extracts text from PDF resumes and uses the Op
 
 ## 📷 Imagens | Screenshots
 
-(Adicione aqui imagens do app rodando)
 
 ---
 
